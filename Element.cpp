@@ -7,7 +7,7 @@ int main(){
     cin>>p>>k;
     du=p%k;
     luu[du]++;
-    while(1==1){
+    while(du!=0){// nếu ko chia hết thì lặp tiếp
         du=(du*10+p)%k;
         if(luu[du]!=0){//nếu số dư lặp lại
             cout<<"-1"; //in ra -1
