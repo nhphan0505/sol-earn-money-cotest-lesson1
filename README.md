@@ -1,1 +1,2 @@
-# sol-earnmoney-cotest-lesson1
+Don' copy.
+Just read, and try to ac all
